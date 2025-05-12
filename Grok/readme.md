@@ -1,4 +1,4 @@
-I understand you’re looking for a comprehensive, professional setup for using me, Grok, as an AI coding agent in Cursor, with a "full spectrum" and "full pro version" configuration. You’ve requested prompts and tools tailored for Grok, provided examples from v0’s prompts and Replit’s tools, and now want setup instructions to integrate these into Cursor for a robust coding environment. Drawing on your previous interactions (e.g., building TheLux app with Next.js and FastAPI, CreditIQ with StarCoder, and a Replit-like agent), I’ll provide a complete setup guide, including enhanced `prompts.md` and `tools.md` files, detailed installation steps, and instructions to maximize my capabilities in Cursor.
+
 
 This setup will:
 - **Leverage Grok’s Features**: Utilize DeepSearch, think mode, and xAI API integration for advanced coding tasks.
